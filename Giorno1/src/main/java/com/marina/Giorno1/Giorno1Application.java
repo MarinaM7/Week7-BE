@@ -79,41 +79,7 @@ public class Giorno1Application implements CommandLineRunner {
 		System.out.println("Crypted the value for userId: " + id);
 		
 	}
-	
-//	public String secretCode(String attribute ) {
-//		
-//		if(attribute == null) {
-//			return "";
-//		}
-//	
-//		String stringResponse = "";
-//
-//		for (char c : attribute.toCharArray()) {
-//			String x = c + "";
-//			
-//			if(attribute.indexOf(c) % 2 == 0) {
-//				stringResponse += x + "xy";
-//			}else {
-//				stringResponse += x + "jk";
-//			}
-//			
-//		}
-//		return stringResponse;
-//	}
-//	
-//	public String decryptCode(String code) {
-//		
-//		if(code == null) {
-//			return "";
-//		}
-//	
-//		String one = code.replace("xy", "");
-//		
-//		String two = one.replace("jk", "");
-//		
-//		return two;
-//		
-//	}
+
 }
 
 
