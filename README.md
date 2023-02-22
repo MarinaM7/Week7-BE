@@ -3,3 +3,6 @@
 
 ## Giorno 1
 Bcrypt, encrypting and decrypting, CORS
+
+## Giorno 2
+Microservices architecture
